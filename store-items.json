@@ -1,0 +1,812 @@
+[
+  {
+"name": "Magic Smith",
+    "img": "images/artwork/magicsmith.jpg",
+    "desc": "A stunning acrylic painting of a dwarvin artificer at work.",
+    "category": "art",
+    "subcategory": "painting",
+    "price": 229.99,
+    "inventory": 1,
+    "keywords": ["dwarvin", "artificer", "painting", "5e"]
+  },
+  {
+    "name": "Forest Fury",
+    "img": "images/artwork/forestfury.jpg",
+    "desc": "A beautiful oil painting of an elven ranger, poised with her longbow, faces a charging dire bear in a mystical forest",
+    "category": "art",
+    "subcategory": "painting",
+    "price": 354.99,
+    "inventory": 1,
+    "keywords": ["elven", "ranger", "painting", "5e"]
+  },
+  {
+    "name": "The Golden Temple",
+    "img": "images/artwork/goldentemple.jpg",
+    "desc": "A oak carving of a temple, stained and polished to a golden sheen.",
+    "category": "art",
+    "subcategory": "sculpture",
+    "price": 499.99,
+    "inventory": 1,
+    "keywords": ["temple", "statue", "golden", "5e"]
+  },
+  {
+    "name": "Test of Strength",
+    "img": "images/artwork/testofstrength.jpg",
+    "desc": "An ink sketch of an orc and human locked in combat to test their abilities in combat.",
+    "category": "art",
+    "subcategory": "sketch",
+    "price": 89.99,
+    "inventory": 1,
+    "keywords": ["orc", "human", "sketch", "5e"]
+  },
+  {
+    "name": "Dragon Lamp",
+    "img": "images/artwork/dragonlamp.jpg",
+    "desc": "A unique lamp carved from resin and walnut, shaped like a dragon.",
+    "category": "art",
+    "subcategory": "lamp",
+    "price": 199.99,
+    "inventory": 1,
+    "keywords": ["dragon", "lamp", "wood", "5e"]
+  },
+  {
+    "name": "Winter Tyrant",
+    "img": "images/artwork/wintertyrant.jpg",
+    "desc": "A stunning acrylic painting of a white dragon standing tall in a snowy landscape.",
+    "category": "art",
+    "subcategory": "painting",
+    "price": 249.99,
+    "inventory": 1,
+    "keywords": ["white dragon", "painting", "5e"]
+  },
+  {
+    "name": "Scaled Guardian",
+    "img": "images/artwork/scaledguardian.jpg",
+    "desc": "A detailed sculpture of a dragon, carved from poplar.",
+    "category": "art",
+    "subcategory": "sculpture",
+    "price": 349.99,
+    "inventory": 1,
+    "keywords": ["dragon", "sculpture", "poplar", "5e"]
+  },
+  {
+    "name": "Baldur's Gate: Descent into Avernus",
+    "img": "images/books/baldursgate.jpg",
+    "desc": "A descent into the first layer of the Nine Hells.",
+    "category": "book",
+    "subcategory": "module",
+    "price": 45.99,
+    "inventory": 15,
+    "keywords": ["adventure", "module", "baldur's gate", "descent into avernus", "5e"]
+  },
+  {
+    "name": "Eberron: Rising from the Last War",
+    "img": "images/books/eberron.jpg",
+    "desc": "A sourcebook for the Eberron campaign setting.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 49.99,
+    "inventory": 30,
+    "keywords": ["eberron", "sourcebook", "5e"]
+  },
+  {
+    "name": "Tasha's Cauldron of Everything",
+    "img": "images/books/tashascauldron.jpg",
+    "desc": "A supplement with new rules and options for players and DMs.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 39.99,
+    "inventory": 25,
+    "keywords": ["tasha's cauldron", "sourcebook", "5e"]
+  },
+  {
+    "name": "Xanathar's Guide to Everything",
+    "img": "images/books/xanatharsguide.jpg",
+    "desc": "A sourcebook with new character options and rules.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 34.99,
+    "inventory": 40,
+    "keywords": ["xanathar's guide", "sourcebook", "5e"]
+  },
+  {
+    "name": "Mordenkainen Presents: Monsters of the Multiverse",
+    "img": "images/books/mordenkainenmonsters.jpg",
+    "desc": "A collection of monsters from across the D&D multiverse.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 44.99,
+    "inventory": 20,
+    "keywords": ["monsters", "sourcebook", "mordenkainen", "5e"]
+  },
+  {
+    "name": "Curse of Strahd",
+    "img": "images/books/curseofstrahd.jpg",
+    "desc": "A gothic horror adventure for experienced players.",
+    "category": "book",
+    "subcategory": "module",
+    "price": 34.99,
+    "inventory": 20,
+    "keywords": ["adventure", "module", "curse of strahd", "5e"]
+  },
+  {
+    "name": "Fizban's Treasury of Dragons",
+    "img": "images/books/fizbansdragons.jpg",
+    "desc": "A comprehensive guide to dragons in D&D.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 49.99,
+    "inventory": 25,
+    "keywords": ["dragons", "sourcebook", "fizban's treasury of dragons", "5e"]
+  },
+  {
+    "name": "Mordenkainen's Tome of Foes",
+    "img": "images/books/mordenkainensfoes.jpg",
+    "desc": "A deep dive into the lore and creatures of the D&D multiverse.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 39.99,
+    "inventory": 30,
+    "keywords": ["lore", "sourcebook", "mordenkainen's tome of foes", "5e"]
+  },
+  {
+    "name": "Icewind Dale: Rime of the Frostmaiden",
+    "img": "images/books/icewinddale.jpg",
+    "desc": "A chilling adventure in the frozen north.",
+    "category": "book",
+    "subcategory": "module",
+    "price": 39.99,
+    "inventory": 20,
+    "keywords": ["adventure", "module", "icewind dale", "rime of the frostmaiden", "5e"]
+  },
+  {
+    "name": "Lost Mines of Phandelver",
+    "img": "images/books/lostmines.jpg",
+    "desc": "A classic adventure for new players.",
+    "category": "book",
+    "subcategory": "module",
+    "price": 29.99,
+    "inventory": 40,
+    "keywords": ["adventure", "module", "lost mines of phandelver", "5e"]
+  },
+  {
+    "name": "Princes of the Apocalypse",
+    "img": "images/books/princesofapocalypse.jpg",
+    "desc": "An elemental-themed adventure for daring heroes.",
+    "category": "book",
+    "subcategory": "module",
+    "price": 42.99,
+    "inventory": 18,
+    "keywords": ["adventure", "module", "princes of the apocalypse", "5e"]
+  },
+  {
+    "name": "Storm King's Thunder",
+    "img": "images/books/stormking.jpg",
+    "desc": "An epic adventure set in the Forgotten Realms.",
+    "category": "book",
+    "subcategory": "module",
+    "price": 39.99,
+    "inventory": 35,
+    "keywords": ["adventure", "module", "storm king's thunder", "5e"]
+  },
+  {
+    "name": "Tomb of Annihilation",
+    "img": "images/books/tombofannihilation.jpg",
+    "desc": "A deadly jungle adventure for brave adventurers.",
+    "category": "book",
+    "subcategory": "module",
+    "price": 44.99,
+    "inventory": 30,
+    "keywords": ["adventure", "module", "tomb of annihilation", "5e"]
+  },
+  {
+    "name": "Waterdeep: Dragon Heist",
+    "img": "images/books/dragonheist.jpg",
+    "desc": "A thrilling urban adventure in Waterdeep.",
+    "category": "book",
+    "subcategory": "module",
+    "price": 37.99,
+    "inventory": 28,
+    "keywords": ["adventure", "module", "waterdeep", "dragon heist", "5e"]
+  },
+  {
+    "name": "The Wild Beyond the Witchlight",
+    "img": "images/books/wildbeyondthewitchlight.jpg",
+    "desc": "A whimsical adventure in the Feywild.",
+    "category": "book",
+    "subcategory": "module",
+    "price": 35.99,
+    "inventory": 25,
+    "keywords": ["adventure", "module", "wild beyond the witchlight", "5e"]
+  },
+  {
+    "name": "Dungeon Master's Guide - 2014",
+    "img": "images/books/dmg2014.jpg",
+    "desc": "D&D 5e 2014 Core Rulebook.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 39.99,
+    "inventory": 30,
+    "keywords": ["dungeon master", "guide", "5e", "rulebook", "core", "2014", "sourcebook"]
+  },
+  {
+    "name": "Dungeon Master's Guide - 2024",
+    "img": "images/books/dmg2024.jpg",
+    "desc": "D&D 5e 2024 Core Rulebook.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 49.99,
+    "inventory": 30,
+    "keywords": ["dungeon master", "guide", "5e", "rulebook", "core", "2024", "sourcebook"]
+  },
+  {
+    "name": "Monster Manual - 2014",
+    "img": "images/books/mm2014.jpg",
+    "desc": "D&D 5e 2014 Core Rulebook.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 39.99,
+    "inventory": 25,
+    "keywords": ["monster", "manual", "5e", "rulebook", "core", "2014", "sourcebook"]
+  },
+  {
+    "name": "Monster Manual - 2024",
+    "img": "images/books/mm2024.jpg",
+    "desc": "D&D 5e 2024 Core Rulebook.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 49.99,
+    "inventory": 25,
+    "keywords": ["monster", "manual", "5e", "rulebook", "core", "2024", "sourcebook"]
+  },
+  {
+    "name": "Player's Handbook - 2014",
+    "img": "images/books/phb2014.jpg",
+    "desc": "D&D 5e 2014 Core Rulebook.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 49.99,
+    "inventory": 50,
+    "keywords": ["rulebook", "core", "5e", "player's handbook", "2014", "sourcebook"]
+  },
+  {
+    "name": "Player's Handbook - 2024",
+    "img": "images/books/phb2024.jpg",
+    "desc": "D&D 5e 2024 Core Rulebook.",
+    "category": "book",
+    "subcategory": "sourcebook",
+    "price": 59.99,
+    "inventory": 50,
+    "keywords": ["rulebook", "core", "5e", "player's handbook", "2024", "sourcebook"]
+  },
+  {
+    "name": "The Druid's Call",
+    "img": "images/books/thedruidscall.jpg",
+    "desc": "A prequel to Dungeons && Dragons: Honor Among Thieves, set in the Forgotten Realms.",
+    "category": "book",
+    "subcategory": "novel",
+    "price": 14.99,
+    "inventory": 12,
+    "keywords": ["druid's call", "prequel", "novel", "dungeons and dragons", "honor among thieves", "forgotten realms"]
+  },
+  {
+    "name": "Charleston Nights Dice Set",
+    "img": "images/dice/charlestonnights.jpg",
+    "desc": "Glow-in-the-dark dice set.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 19.99,
+    "inventory": 100,
+    "keywords": ["dice", "glow-in-the-dark", "set", "charleston nights", "5e", "resin"]
+  },
+  {
+    "name": "Blue Gear Dice Set",
+    "img": "images/dice/bluedice.jpg",
+    "desc": "A set of blue gear-themed dice.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 28.99,
+    "inventory": 38,
+    "keywords": ["dice", "blue gear", "set", "5e", "resin"]
+  },
+  {
+    "name": "Dragon Eye Dice Set",
+    "img": "images/dice/dragoneye.jpg",
+    "desc": "A mystical dice set with dragon eye designs.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 23.99,
+    "inventory": 70,
+    "keywords": ["dice", "dragon eye", "set", "5e", "resin"]
+  },
+  {
+    "name": "Haunted Glow Dice Set",
+    "img": "images/dice/hauntedglow.jpg",
+    "desc": "A spooky glow-in-the-dark dice set.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 31.99,
+    "inventory": 19,
+    "keywords": ["dice", "haunted glow", "set", "5e", "resin"]
+  },
+  {
+    "name": "Christmas Dice Set",
+    "img": "images/dice/christmasdice.jpg",
+    "desc": "A festive dice set for the holiday season.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 32.99,
+    "inventory": 45,
+    "keywords": ["dice", "christmas", "set", "5e", "metal"]
+  },
+  {
+    "name": "Infinity Stone Dice Set",
+    "img": "images/dice/infinitystone.jpg",
+    "desc": "A unique dice set inspired by the Infinity Stones.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 26.99,
+    "inventory": 65,
+    "keywords": ["dice", "infinity stone", "set", "5e", "resin"]
+  },
+  {
+    "name": "Lucky Duck Dice Set",
+    "img": "images/dice/luckyduck.jpg",
+    "desc": "A whimsical dice set featuring lucky duck designs.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 27.99,
+    "inventory": 60,
+    "keywords": ["dice", "elemental fury", "set", "5e", "resin"]
+  },
+  {
+    "name": "Mindflayer Dice Set",
+    "img": "images/dice/mindflayer.jpg",
+    "desc": "A mindflayer-themed dice set for dark adventures.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 75.99,
+    "inventory": 55,
+    "keywords": ["dice", "mindflayer", "set", "5e", "metal"]
+  },
+  {
+    "name": "Murder Cat Dice Set",
+    "img": "images/dice/murdercat.jpg",
+    "desc": "Blood covered dice set that comes with a small white cat figurine.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 22.99,
+    "inventory": 21,
+    "keywords": ["dice", "cat", "blood", "set", "5e", "resin"]
+  },
+  {
+    "name": "Rainbow Dice Set",
+    "img": "images/dice/rainbowdice.jpg",
+    "desc": "Rainbow colored dice in a wooden case.",
+    "category": "dice",
+    "subcategory": null,
+    "price": 21.99,
+    "inventory": 40,
+    "keywords": ["dice", "rainbow", "set", "5e", "resin"]
+  },
+  {
+    "name": "Skull Dice Set",
+    "img": "images/dice/skulldice.jpg",
+    "desc": "A set of dice with human skulls inside",
+    "category": "dice",
+    "subcategory": null,
+    "price": 21.99,
+    "inventory": 40,
+    "keywords": ["dice", "skull", "set", "5e", "resin"]
+  },
+  {
+    "name": "Cold Gold Dice Set",
+    "img": "images/dice/coldgold.jpg",
+    "desc": "A frosty gold-themed dice set.",    
+    "category": "dice",
+    "subcategory": null,
+    "price": 24.99,
+    "inventory": 27,
+    "keywords": ["dice", "cold gold", "set", "5e", "metal"]
+  },
+  {
+    "name": "Bandit Troll",
+    "img": "images/miniatures/bandittroll.jpg",
+    "desc": "A fearsome bandit troll miniature.",
+    "category": "miniature",
+    "subcategory": null,
+    "price": 21.99,
+    "inventory": 11,
+    "keywords": ["miniature", "troll", "bandit", "5e"]
+  },
+  {
+    "name": "Cardboard D&D Characters",
+    "img": "images/miniatures/cardboardcharacters.jpg",
+    "desc": "A set of cardboard cutout D&D characters for easy reference.",
+    "category": "miniature",
+    "subcategory": null,
+    "price": 17.99,
+    "inventory": 45,
+    "keywords": ["miniature", "cardboard", "characters", "5e"]
+  },
+  {
+    "name": "Tabaxi Bard",
+    "img": "images/miniatures/tabaxibard.jpg",
+    "desc": "A playful tabaxi bard miniature.",
+    "category": "miniature",
+    "subcategory": null,
+    "price": 16.99,
+    "inventory": 12,
+    "keywords": ["miniature", "tabaxi", "bard", "5e"]
+  },
+  {
+    "name": "Dragonborn Fighter",
+    "img": "images/miniatures/dragonbornfighter.jpg",
+    "desc": "A fierce dragonborn fighter miniature.",
+    "category": "miniature",
+    "subcategory": null,
+    "price": 18.99,
+    "inventory": 50,
+    "keywords": ["miniature", "dragonborn", "fighter", "5e"]
+  },
+  {
+    "name": "Dwarf Fighter",
+    "img": "images/miniatures/dwarffighter.jpg",
+    "desc": "A sturdy dwarf fighter miniature.",
+    "category": "miniature",
+    "subcategory": null,
+    "price": 14.99,
+    "inventory": 60,
+    "keywords": ["miniature", "dwarf", "fighter", "5e"]
+  },
+  {
+    "name": "Orc Fighter",
+    "img": "images/miniatures/orcfighter.jpg",
+    "desc": "A powerful orc fighter miniature.",
+    "category": "miniature",
+    "subcategory": null,
+    "price": 17.99,
+    "inventory": 40,
+    "keywords": ["miniature", "orc", "fighter", "5e"]
+  },
+  {
+    "name": "Skeleton Horde Set",
+    "img": "images/miniatures/skeletonhorde.jpg",
+    "desc": "A set of skeleton miniatures for undead encounters.",
+    "category": "miniature",
+    "subcategory": null,
+    "price": 16.99,
+    "inventory": 35,
+    "keywords": ["miniature", "skeleton", "horde", "5e"]
+  },
+  {
+    "name": "5 Piece D&D Party Set",
+    "img": "images/miniatures/5piecepartyset.jpg",
+    "desc": "A complete set of five miniatures representing a typical D&D party.",
+    "category": "miniature",
+    "subcategory": null,
+    "price": 15.99,
+    "inventory": 22,
+    "keywords": ["miniature", "party set", "5e", "dnd"]
+  },
+  {
+    "name": "Wolf",
+    "img": "images/miniatures/wolf.jpg",
+    "desc": "A wolf miniature, perfect for wilderness encounters.",
+    "category": "miniature",
+    "subcategory": null,
+    "price": 15.99,
+    "inventory": 50,
+    "keywords": ["miniature", "wolf", "5e", "animal"]
+  },
+  {
+    "name": "Dragon Scale Dice Bag",
+    "img": "images/accessories/dragonscaledicebag.jpg",
+    "desc": "A stylish dice bag with dragon scale design.",
+    "category": "accessory",
+    "subcategory": "dicebag",
+    "price": 19.99,
+    "inventory": 80,
+    "keywords": ["dice bag", "dragon scale", "accessory", "5e"]
+  },
+  {
+    "name": "Dungeon Master's Screen",
+    "img": "images/accessories/dmscreen.jpg",
+    "desc": "A comprehensive screen for Dungeon Masters with essential rules.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 24.99,
+    "inventory": 40,
+    "keywords": ["dungeon master's screen", "accessory", "5e", "rules"]
+  },
+  {
+    "name": "Miniature Storage Box",
+    "img": "images/accessories/miniaturestoragebox.jpg",
+    "desc": "A sturdy storage box for miniatures in the shape of a treasure chest, filled with treasure.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 29.99,
+    "inventory": 30,
+    "keywords": ["miniature storage", "box", "accessory", "5e"]
+  },
+  {
+    "name": "Wooden Condition Markers",
+    "img": "images/accessories/conditionmarkers.jpg",
+    "desc": "A set of wooden condition markers for tracking status effects in-game.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 14.99,
+    "inventory": 50,
+    "keywords": ["condition markers", "wooden", "accessory", "5e"]
+  },
+  {
+    "name": "Wooden Dice Tower",
+    "img": "images/accessories/dicetower.jpg",
+    "desc": "A beautifully crafted wooden dice tower for rolling dice.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 39.99,
+    "inventory": 25,
+    "keywords": ["dice tower", "wooden", "accessory", "5e"]
+  },
+  {
+    "name": "Dungeon Master Rings",
+    "img": "images/accessories/dmring.jpg",
+    "desc": "A set of rings for Dungeon Masters to signify their role in the game.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 15.99,
+    "inventory": 100,
+    "keywords": ["dungeon master", "rings", "accessory", "5e"]
+  },
+  {
+    "name": "Bag of Gold Coins",
+    "img": "images/accessories/bagofgoldcoins.jpg",
+    "desc": "A bag filled with gold coins, perfect for in-game currency.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 9.99,
+    "inventory": 200,
+    "keywords": ["gold coins", "bag", "accessory", "5e"]
+  },
+  {
+    "name": "Wooden Initiative Tracker",
+    "img": "images/accessories/initiative_tracker.jpg",
+    "desc": "A wooden initiative tracker to keep track of turns in combat.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 12.99,
+    "inventory": 60,
+    "keywords": ["initiative tracker", "wooden", "accessory", "5e"]
+  },
+  {
+    "name": "Coffee Mug of Holding",
+    "img": "images/accessories/coffeemugofholding.jpg",
+    "desc": "A coffee mug that can hold more than it seems, perfect for long gaming sessions.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 14.99,
+    "inventory": 75,
+    "keywords": ["coffee mug", "holding", "accessory", "5e"]
+  },
+  {
+    "name": "Paint Kit for Miniatures",
+    "img": "images/accessories/paintkit.jpg",
+    "desc": "A complete paint kit for customizing miniatures with various colors and brushes.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 29.99,
+    "inventory": 50,
+    "keywords": ["paint kit", "miniatures", "accessory", "5e"]
+  },
+  {
+    "name": "Time Out Chair",
+    "img": "images/accessories/timeoutchair.jpg",
+    "desc": "A chair for dice that need a break, designed to look like a throne.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 49.99,
+    "inventory": 20,
+    "keywords": ["time out chair", "dice", "throne", "accessory", "5e"]
+  },
+  {
+    "Name": "Wizard Staff",
+    "img": "images/accessories/wizardstaff.jpg",
+    "desc": "A decorative staff for wizards, perfect for role-playing.",
+    "category": "accessory",
+    "subcategory": null,
+    "price": 59.99,
+    "inventory": 15,
+    "keywords": ["wizard staff", "accessory", "role-playing", "5e"]
+  },
+  {
+    "name": "Ship at sea",
+    "img": "images/maps/shipatsea.jpg",
+    "desc": "A battle map of a ship sailing over waves.",
+    "category": "map", 
+    "subcategory": "battlemap",
+    "price": 19.99,
+    "inventory": 50,
+    "keywords": ["ship", "sea", "battlemap", "5e"]
+  },
+  {
+    "name": "Lost Mines of Phandelver",
+    "img": "images/maps/lostmines.jpg",
+    "desc": "A detailed map of the Lost Mines of Phandelver adventure.",
+    "category": "map",
+    "subcategory": "adventure",
+    "price": 14.99,
+    "inventory": 100,
+    "keywords": ["lost mines", "phandelver", "map", "adventure", "5e"]
+  },
+  {
+    "name": "Elturel: Holy City of Paladins",
+    "img": "images/maps/elturel.jpg",
+    "desc": "A map of Elturel, the holy city of paladins, with key locations marked.",
+    "category": "map",
+    "subcategory": "city",
+    "price": 24.99,
+    "inventory": 30,
+    "keywords": ["elturel", "holy city", "paladins", "map", "5e"]
+  },
+  {
+    "name": "Fishing Village",
+    "img": "images/maps/fishingvillage.jpg",
+    "desc": "A map of a quaint fishing village, perfect for small adventures.",
+    "category": "map",
+    "subcategory": "village",
+    "price": 12.99,
+    "inventory": 75,
+    "keywords": ["fishing village", "map", "5e", "adventure"]
+  },
+  {
+    "name": "Inn and Stables",
+    "img": "images/maps/innandstables.jpg",
+    "desc": "A map of an inn and stables, ideal for resting and gathering information.",
+    "category": "map",
+    "subcategory": "building",
+    "price": 9.99,
+    "inventory": 100,
+    "keywords": ["inn", "stables", "map", "5e", "adventure"]
+  },
+  {
+    "name": "Tavern Map",
+    "img": "images/maps/tavern.jpg",
+    "desc": "A detailed map of a bustling tavern, perfect for social encounters.",
+    "category": "map",
+    "subcategory": "building",
+    "price": 11.99,
+    "inventory": 80,
+    "keywords": ["tavern", "map", "5e", "adventure"]
+  },
+  {
+    "name": "Undergound Temple",
+    "img": "images/maps/undergroundtemple.jpg",
+    "desc": "A map of an underground temple, filled with traps and treasures.",
+    "category": "map",
+    "subcategory": "dungeon",
+    "price": 15.99,
+    "inventory": 60,
+    "keywords": ["underground temple", "map", "dungeon", "5e", "adventure"]
+  },
+  {
+    "name": "Castle Tiles",
+    "img": "images/terrain/castletiles.jpg",
+    "desc": "A set of castle tiles for building your own castle terrain.",
+    "category": "terrain",
+    "subcategory": "tiles",
+    "price": 39.99,
+    "inventory": 25,
+    "keywords": ["castle", "tiles", "terrain", "5e"]
+  },
+  {
+    "name": "Cavern Tiles",
+    "img": "images/terrain/caverntiles.jpg",
+    "desc": "A set of cavern tiles for creating underground adventures.",
+    "category": "terrain",
+    "subcategory": "tiles",
+    "price": 34.99,
+    "inventory": 30,
+    "keywords": ["cavern", "tiles", "terrain", "5e"]
+  },
+  {
+    "name": "Temple Tiles",
+    "img": "images/terrain/templetile.jpg",
+    "desc": "A set of temple tiles for building sacred sites and dungeons.",
+    "category": "terrain",
+    "subcategory": "tiles",
+    "price": 29.99,
+    "inventory": 40,
+    "keywords": ["temple", "tiles", "terrain", "5e"]
+  },
+  {
+    "name": "Dragon Skeleton",
+    "img": "images/terrain/dragonskeleton.jpg",
+    "desc": "A large dragon skeleton model for epic encounters.",
+    "category": "terrain",
+    "subcategory": "model",
+    "price": 99.99,
+    "inventory": 10,
+    "keywords": ["dragon", "skeleton", "terrain", "5e", "model"]
+  },
+  {
+    "name": "Alter Room",
+    "img": "images/terrain/alterroom.jpg",
+    "desc": "A detailed model of an altar room, perfect for religious encounters.",
+    "category": "terrain",
+    "subcategory": "model",
+    "price": 49.99,
+    "inventory": 20,
+    "keywords": ["altar room", "terrain", "5e", "model"]
+  },
+  {
+    "name": "Dungeon Tiles",
+    "img": "images/terrain/dungeontiles.jpg",
+    "desc": "A set of dungeon tiles for creating intricate dungeon layouts.",
+    "category": "terrain",
+    "subcategory": "tiles",
+    "price": 44.99,
+    "inventory": 15,
+    "keywords": ["dungeon", "tiles", "terrain", "5e"]
+  },
+  {
+    "name": "Grassy Plains",
+    "img": "images/terrain/grassyplains.jpg",
+    "desc": "A set of grassy plains terrain tiles for outdoor adventures.",
+    "category": "terrain",
+    "subcategory": "tiles",
+    "price": 24.99,
+    "inventory": 50,
+    "keywords": ["grassy plains", "terrain", "5e", "tiles"]
+  },
+  {
+    "name": "Village Tiles",
+    "img": "images/terrain/villagetiles.jpg",
+    "desc": "A set of village tiles for creating small settlements and towns.",
+    "category": "terrain",
+    "subcategory": "tiles",
+    "price": 39.99,
+    "inventory": 30,
+    "keywords": ["village", "tiles", "terrain", "5e"]
+  },
+  {
+    "name": "Market Square",
+    "img": "images/terrain/marketsquare.jpg",
+    "desc": "A detailed model of a market square, perfect for bustling city adventures.",
+    "category": "terrain",
+    "subcategory": "model",
+    "price": 54.99,
+    "inventory": 18,
+    "keywords": ["market square", "terrain", "5e", "model"]
+  },
+  {
+    "name": "Temple Ruins",
+    "img": "images/terrain/templeruins.jpg",
+    "desc": "A set of temple ruins terrain pieces for ancient site explorations.",
+    "category": "terrain",
+    "subcategory": "model",
+    "price": 59.99,
+    "inventory": 12,
+    "keywords": ["temple ruins", "terrain", "5e", "model"]
+  },
+  {
+    "name": "City Ruins",
+    "img": "images/terrain/cityruins.jpg",
+    "desc": "A set of city ruins terrain pieces for post-apocalyptic or war-torn settings.",
+    "category": "terrain",
+    "subcategory": "model",
+    "price": 69.99,
+    "inventory": 8,
+    "keywords": ["city ruins", "terrain", "5e", "model"]
+  },
+  {
+    "name": "Tavern",
+    "img": "images/terrain/tavern.jpg",
+    "desc": "A detailed model of a tavern, perfect for social encounters and resting.",
+    "category": "terrain",
+    "subcategory": "model",
+    "price": 49.99,
+    "inventory": 20,
+    "keywords": ["tavern", "terrain", "5e", "model"]
+  }
+]

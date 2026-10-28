@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="images/logo.jpg" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <img src="images/logo.jpg" alt="Charleston D&D Guildhall Logo" class="logo">
+        <div class="header-text">
+            <h1>Charleston D&D Guildhall</h1>
+            <p>Your hub for all things Dungeons & Dragons in Charleston, South Carolina</p>
+        </div>
+        <img src="images/logo.jpg" alt="Charleston D&D Guildhall Logo" class="logo">
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a class="active" href="store.html">Homebrew</a></li>
+            <li><a href="games.html">Join a Game</a></li>
+            <li><a href="events.html">Community Events</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h1>Welcome to the Store!</h1>
+        <p>Explore our collection of Dungeons & Dragons merchandise, including books, dice, and accessories.</p>
+
+        <nav class="store-nav">
+        <ul>
+            <li><a class="active" href="#" data-category="">All Items</a></li>
+            <li><a href="#" data-category="art">Artwork</a></li>
+            <li>
+                <a href="#" data-category="book">Books</a>
+                <ul class="sub-menu">
+                    <li><a href="#" data-category="book" data-subcategory="sourcebook">Sourcebooks</a></li>
+                    <li><a href="#" data-category="book" data-subcategory="module">Adventure Modules</a></li>
+                    <li><a href="#" data-category="book" data-subcategory="novel">Novels</a></li>
+                </ul>
+            </li>
+            <li><a href="#" data-category="map">Maps</a></li>
+            <li><a href="#" data-category="terrain">Terrain</a></li>
+            <li><a href="#" data-category="miniature">Miniatures</a></li>
+            <li><a href="#" data-category="dice">Dice</a></li>
+            <li><a href="#" data-category="accessory">Accessories</a></li>
+        </ul>
+        </nav>
+
+        <input type="text" id="store-search" placeholder="Search items..." style="width:100%;max-width:400px;padding:0.5em;margin:1em 0;">
+
+        <div id="store-grid" class="store-grid"></div>
+        <div id="pagination" class="pagination"></div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Melissa A. Harness</p>
+    </footer>
+        <!-- Modal for item details -->
+    <div id="item-modal" class="modal" style="display:none;">
+        <div class="modal-content">
+            <span class="close" id="modal-close">&times;</span>
+            <img id="modal-img" src="" alt="" style="max-width:200px;display:block;margin:auto;">
+            <h2 id="modal-name"></h2>
+            <p id="modal-desc"></p>
+            <p><strong>In Stock:</strong> <span id="modal-inventory"></span></p>
+            <button id="modal-buy-btn">Buy</button>
+        </div>
+    </div>
+    <script src="store.js"></script>
+</body>
+</html>
